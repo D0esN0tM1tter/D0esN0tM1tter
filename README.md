@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bilal!
 
-🎯 Software Engineering, Data science and AI 
+🎯 Software, Data science and AI engineering student.
 
 ## 💻 Skills:
 - **Programming languages** : Java, Python, C, C ++
