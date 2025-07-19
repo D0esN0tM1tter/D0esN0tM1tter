@@ -72,16 +72,7 @@
   - Responsive user interface
 - **Impact:** Optimized assessment time for recruitment
 
----
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=D0esN0tM1tter&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D0esN0tM1tter&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
----
 
 ## 🌐 Languages
 
